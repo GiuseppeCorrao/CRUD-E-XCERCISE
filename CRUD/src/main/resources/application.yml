@@ -1,0 +1,11 @@
+Spring:
+  datasource:
+    url:
+    username:
+    password:
+  JPA:
+    hibernate:
+      ddl-auto: create
+jackson:
+  serialization:
+    fail-on-empty-beans: false
